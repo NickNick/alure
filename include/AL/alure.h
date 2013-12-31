@@ -2,8 +2,7 @@
 #define AL_ALURE_H
 
 #if !defined(ALC_VERSION_0_1) || !defined(AL_VERSION_1_0)
-#include "al.h"
-#include "alc.h"
+#include "openal.h"
 #endif
 
 #if defined(__cplusplus)
